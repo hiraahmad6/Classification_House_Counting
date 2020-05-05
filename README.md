@@ -13,9 +13,14 @@ For this I have uploaded annotations in the same repository
 Extract all the zip files and place the extracted folders in the same directory i.e., 6 folders will be placed in that 
 directory
 
-high_train_dir
-high_test_dir
-low_train_dir
-low_test_dir
-mid_train_dir
+high_train_dir;
+
+high_test_dir;
+
+low_train_dir;
+
+low_test_dir;
+
+mid_train_dir;
+
 mid_test_dir
