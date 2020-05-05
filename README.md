@@ -24,3 +24,6 @@ low_test_dir;
 mid_train_dir;
 
 mid_test_dir
+
+
+After that, run DRAW_ANNOTATIONS.ipynb code
